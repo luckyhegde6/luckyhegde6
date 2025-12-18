@@ -15,118 +15,152 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Lucky Hegde
+# 👋 Hi, I'm Lucky Hegde
 
-Full-stack engineer focused on building **production-ready web systems** with
-clear architecture, strong fundamentals, and scalable thinking.
+Full-stack engineer with strong foundations in **TypeScript, backend systems,
+and modern web architecture**, actively growing into **senior-level ownership
+and system design responsibilities**.
 
-I enjoy working across the stack — from React UIs to backend APIs, databases,
-auth, and infrastructure — and I’m actively preparing for **senior-level roles**.
+I build real systems end-to-end — frontend, backend, databases, auth,
+infrastructure — and care deeply about **clarity, scalability, and trade-offs**.
 
----
-
-## 🧠 What I Focus On
-
-- Full-stack development with **Next.js, TypeScript, React**
-- Backend systems, APIs, auth, roles & permissions
-- Databases (SQL, Prisma, MongoDB) and data modeling
-- System design fundamentals (scalability, trade-offs)
-- Cloud & infra (AWS, GCP, Docker, self-hosting)
-- Writing code that is **readable, explainable, and evolvable**
+🔗 LinkedIn: https://in.linkedin.com/in/laxmish-hegde
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Engineering Focus
 
-### 🛒 EcomZen — Full-Stack Ecommerce Platform
-**Tech:** Next.js, TypeScript, Prisma, Auth, Role-based Access
+**Languages & Runtimes**
+- TypeScript, JavaScript
+- Python
+- Node.js
 
-A production-style ecommerce platform with:
-- Authentication & authorization (admin / user roles)
-- Server & client component separation
-- Database modeling with Prisma
+**Frontend**
+- React, Next.js
+- Tailwind CSS
+- State management, auth flows, dashboards
+
+**Backend & APIs**
+- Node.js APIs
+- Python + FastAPI
+- REST design, background tasks, schedulers
+
+**Databases**
+- PostgreSQL, SQL
+- Prisma ORM
+- MongoDB
+
+**Cloud & Infra**
+- AWS, GCP (hands-on)
+- Docker
+- Self-hosting, Raspberry Pi, networking basics
+
+**GenAI & Automation**
+- Prompt engineering
+- Agentic workflows
+- AI-assisted automation experiments
+
+---
+
+## 🚀 Featured & Representative Projects
+
+### 🛒 EcomZen — Production-Style Ecommerce Platform
+**Tech:** Next.js, TypeScript, Prisma, Auth, RBAC
+
+A full-stack ecommerce system focusing on:
+- Authentication & role-based authorization
+- Server vs client component boundaries
+- Database schema design with Prisma
 - Admin workflows and protected routes
 
-👉 Focus: real-world auth, middleware, data modeling  
-📌 Repo: https://github.com/luckyhegde6/ecomZen
+📌 Repo: https://github.com/luckyhegde6/ecomZen  
+👉 Emphasis: real-world full-stack architecture
 
 ---
 
-### 🏏 Cricket Scoreboard App
+### 🏏 Cricket Scoreboard System
 **Tech:** Next.js, TypeScript, Tailwind, Jest
 
-Live scoreboard system for local cricket matches with:
-- Role-based access (admin, scorer, viewer)
-- Real-time score updates
-- Unit testing without Babel
+A role-driven live scoring application with:
+- Admin / scorer / viewer permissions
 - Modular UI components
+- Unit testing without Babel
+- Clear separation of concerns
 
-👉 Focus: roles, permissions, testing, UI logic  
-📌 Repo: https://github.com/luckyhegde6/cricket-scoreboard-app
-
----
-
-### 🤖 Agentic Task Automator (In Progress)
-**Tech:** Node.js, Scheduler, APIs, Cloud
-
-An agent-style automation system designed to:
-- Handle multiple scheduled tasks
-- Support extensible task definitions
-- Move toward distributed execution
-
-👉 Focus: backend design, schedulers, extensibility  
-📌 Repo: (WIP – coming soon)
+📌 Repo: https://github.com/luckyhegde6/cricket-scoreboard-app  
+👉 Emphasis: roles, testing, UI logic
 
 ---
 
-### ☁️ Multi-Cloud Pipeline (MCP) (Planned)
-**Tech:** AWS, GCP, Docker, CI/CD
+### 🐍 Python & FastAPI Services
+**Tech:** Python, FastAPI, REST APIs
 
-A learning project to explore:
-- Multi-cloud deployment strategies
-- Trade-offs between providers
-- Observability and failure handling
+Backend-focused projects exploring:
+- API design with FastAPI
+- Data handling and service boundaries
+- Async patterns and backend fundamentals
 
-👉 Focus: system design & infra thinking
+📌 Repos: See Python / FastAPI repositories  
+👉 Emphasis: backend clarity & correctness
+
+---
+
+### 🤖 GenAI & Agentic Experiments
+**Tech:** GenAI, Prompt Engineering, Automation
+
+Explorations into:
+- Prompt design and refinement
+- AI-assisted task automation
+- Agent-style workflows and tools
+
+📌 Repos: GenAI & automation experiments  
+👉 Emphasis: modern tooling + practical use cases
+
+---
+
+### ☁️ Infra, Hosting & Systems Experiments
+**Tech:** Docker, Databases, Networking, Cloud
+
+Hands-on projects involving:
+- Self-hosting services
+- Database setup and exposure
+- Dockerized apps
+- Raspberry Pi deployments
+
+👉 Emphasis: running systems, not just coding them
 
 ---
 
 ## 🧩 System Design & Engineering Thinking
 
 I actively practice:
-- Designing scalable systems (URL shortener, task schedulers, dashboards)
-- Explaining trade-offs (consistency vs availability, cost vs scale)
-- Breaking problems into services and responsibilities
-- Writing design docs before coding
+- Designing scalable backend systems
+- Explaining architectural trade-offs
+- Writing readable, maintainable code
+- Thinking in services, boundaries, and failure modes
 
-This GitHub is evolving toward **clear system design signals**.
+My projects increasingly include **design-first thinking**, not just implementation.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Learning Track
 
-- Advanced React patterns & performance optimization
+- Advanced React & performance patterns
 - Distributed systems basics (queues, schedulers)
 - Dynamic Programming & DSA for interviews
-- Writing better design docs & technical explanations
+- Writing clear design docs and technical explanations
+- Production-ready GenAI integration
 
 ---
 
-## 🎯 2025–2026 Goals
+## 🎯 Career Direction
 
-- Ship 2–3 **deep, well-documented portfolio projects**
-- Be comfortable leading system design interviews
-- Demonstrate senior-level ownership and decision-making
-- Transition into a **Senior Software Engineer** role
-
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/luckyhegde6
-- (Add LinkedIn / Blog when ready)
+- Preparing for **Senior Software Engineer** roles
+- Building 2–3 deeply documented portfolio projects
+- Demonstrating ownership, mentoring mindset, and system thinking
+- Strong interviews across **React, Backend, System Design, and Leadership**
 
 ---
 
-> I believe good engineering is not just about writing code —  
-> it’s about **making trade-offs visible and systems understandable**.
+> I value engineers who can explain *why* a system is built a certain way —  
+> not just *how* to write the code.
